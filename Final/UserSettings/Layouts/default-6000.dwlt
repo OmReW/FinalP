@@ -1193,7 +1193,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Prefabs
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1203,7 +1203,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\omerm\Documents\GitHub\FinalP\Final
   m_LockTracker:
@@ -1212,12 +1212,16 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 35318
+    - m_Data: 74266
     m_LastClickedID:
-      m_Data: 35318
+      m_Data: 74266
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 35198
+    - m_Data: 35242
+    - m_Data: 35326
+    - m_Data: 74266
+    - m_Data: 74358
+    - m_Data: 75416
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1252,7 +1256,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 35198
+    - m_Data: 35242
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1279,8 +1283,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 74910
+    m_LastClickedInstanceID: 74910
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -1404,7 +1409,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: 74910
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
